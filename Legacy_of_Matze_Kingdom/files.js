@@ -228,7 +228,7 @@
 	"th15/st06c.msg.jdiff": 1822836716,
 	"th15/st06d.msg.jdiff": 356834829,
 	"th15/st06mbs.ecl": 2069813510,
-	"th15/st07.ecl": 3059655264,
+	"th15/st07.ecl": 1979941965,
 	"th15/st07a.msg.jdiff": 2238157859,
 	"th15/st07b.msg.jdiff": 516133553,
 	"th15/st07bs.ecl": 2908936925,
