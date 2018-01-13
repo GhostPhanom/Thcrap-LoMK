@@ -237,6 +237,7 @@
 	"th15/st07c.msg.jdiff": 3279888335,
 	"th15/st07d.msg.jdiff": 2689903174,
 	"th15/st07mbs.ecl": 1157627910,
+	"th15/st07mbs2.ecl": 3805430402,
 	"th15/stgenm/stage01/cardbg0.png": 1356286444,
 	"th15/stgenm/stage01/cardbg1.png": 3919309614,
 	"th15/stgenm/stage01/enm1.png": 1332137548,
